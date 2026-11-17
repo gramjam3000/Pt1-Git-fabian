@@ -1,1 +1,2 @@
 Hallo von Main-Branch
+Hallo von Konflict-Branch
